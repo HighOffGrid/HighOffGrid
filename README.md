@@ -1,5 +1,16 @@
 # Iago Sena
 
+---
+
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?logo=redis)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Node.js](https://img.shields.io/badge/Node.js-JavaScript-green?logo=node.js)
+
+---
+
 Backend Developer | Python | FastAPI | REST APIs | Docker | PostgreSQL | Redis
 
 Backend developer focused on building scalable APIs and backend systems.
@@ -164,6 +175,36 @@ Soft Skills
 * Problem solving
 * Adaptability
 * Continuous learning
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HighOffGrid&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HighOffGrid&layout=compact&theme=tokyonight)
+
+---
+
+## Current Focus
+
+Building scalable backend systems using:
+
+- FastAPI
+- PostgreSQL
+- Redis
+- Docker
+- Clean Architecture
+
+---
+
+## Currently Learning
+
+- Backend Architecture
+- Microservices
+- Distributed Systems
+- API Security
+- System Design
 
 ---
 
