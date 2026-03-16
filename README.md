@@ -1,16 +1,183 @@
-## Hi there 👋
+# Iago Sena
 
-<!--
-**HighOffGrid/HighOffGrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Python | FastAPI | REST APIs | Docker | PostgreSQL | Redis
 
-Here are some ideas to get you started:
+Backend developer focused on building scalable APIs and backend systems.
+Currently studying **Analysis and Systems Development (ADS)** and developing practical projects focused on **backend engineering, API design and software architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real systems, solving problems with code and continuously improving my knowledge in **backend architecture, security and distributed systems**.
+
+---
+
+# About Me
+
+I am a developer focused on **backend development and API architecture**, with practical experience building RESTful services using modern backend technologies.
+
+My projects focus on:
+
+• API development with **FastAPI and Python**
+• Authentication systems using **JWT**
+• Database integration with **PostgreSQL and SQLAlchemy**
+• Performance improvement using **Redis caching**
+• Containerized applications using **Docker**
+
+I have also studied **cybersecurity and Linux environments**, which helps me design backend systems with security and reliability in mind.
+
+---
+
+# Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+
+### Backend
+
+* FastAPI
+* Node.js
+* REST APIs
+* JWT Authentication
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* SQLite
+* Redis
+
+### Tools & Infrastructure
+
+* Docker
+* SQLAlchemy
+* Git
+* GitHub
+* VS Code
+* Postman
+
+---
+
+# Featured Projects
+
+### FastAPI Auth Service
+
+Authentication microservice built with FastAPI.
+
+Features:
+
+* JWT authentication
+* Refresh tokens
+* PostgreSQL database
+* Redis token management
+* Dockerized environment
+
+Technologies: FastAPI • PostgreSQL • Redis • Docker • SQLAlchemy
+
+---
+
+### FastAPI E-commerce API
+
+Backend API for an e-commerce system including:
+
+* User authentication
+* Product management
+* Order handling
+* Structured REST API
+
+Technologies: FastAPI • PostgreSQL • SQLAlchemy • Docker
+
+---
+
+### FastAPI URL Shortener API
+
+URL shortening service built with a scalable backend architecture.
+
+Features:
+
+* URL shortening
+* Redis caching
+* PostgreSQL persistence
+* REST API design
+
+Technologies: FastAPI • PostgreSQL • Redis • Docker
+
+---
+
+### Task Management System
+
+Academic project developed in group.
+
+Features:
+
+* Task management
+* User authentication
+* CRUD operations
+
+Technologies: JavaScript • Node.js • MongoDB
+
+---
+
+### Inventory API
+
+Simple RESTful API for inventory control.
+
+Features:
+
+* Product management
+* Category relationships
+* Basic stock control
+
+Technologies: Python • FastAPI • SQLite
+
+---
+
+# Education
+
+Analysis and Systems Development
+Estácio University
+
+Expected graduation: **June 2026**
+
+Focus areas:
+
+* Web Development
+* Databases
+* Software Architecture
+* Programming Logic
+
+---
+
+# Skills
+
+Technical Skills
+
+* Backend Development
+* REST API Design
+* Database Modeling
+* Authentication Systems
+* Docker Containers
+
+Soft Skills
+
+* Teamwork
+* Communication
+* Problem solving
+* Adaptability
+* Continuous learning
+
+---
+
+# Contact
+
+LinkedIn
+https://www.linkedin.com/in/iago-sena-5a5690317
+
+GitHub
+https://github.com/HighOffGrid
+
+Email
+[iagosena.c@hotmail.com](mailto:iagosena.c@hotmail.com)
+
+---
+
+Always learning and building new backend systems.
