@@ -1,216 +1,107 @@
-# Iago Sena
+<h1 align="center">Iago Sena</h1>
+<p align="center">
+  Desenvolvedor Backend Júnior · Python · FastAPI · PostgreSQL · Redis · Docker
+</p>
+<p align="center">
+  📍 Salvador, BA &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/iago-sena-5a5690317">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:iagosena.c@hotmail.com">E-mail</a>
+</p>
 
 ---
 
-![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-Cache-red?logo=redis)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![Node.js](https://img.shields.io/badge/Node.js-JavaScript-green?logo=node.js)
+## Sobre mim
+
+Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e construo APIs REST com Python e FastAPI. Meus projetos têm autenticação JWT, banco relacional, cache com Redis e ambiente reproduzível com Docker.
+
+Estou me aprofundando em segurança de aplicações (OWASP API Top 10) para unir desenvolvimento backend e segurança.
+
+**Buscando minha primeira oportunidade** como desenvolvedor backend júnior ou estágio.
 
 ---
 
-Backend Developer | Python | FastAPI | REST APIs | Docker | PostgreSQL | Redis
+## Stack
 
-Backend developer focused on building scalable APIs and backend systems.
-Currently studying **Analysis and Systems Development (ADS)** and developing practical projects focused on **backend engineering, API design and software architecture**.
-
-I enjoy building real systems, solving problems with code and continuously improving my knowledge in **backend architecture, security and distributed systems**.
-
----
-
-# About Me
-
-I am a developer focused on **backend development and API architecture**, with practical experience building RESTful services using modern backend technologies.
-
-My projects focus on:
-
-• API development with **FastAPI and Python**
-• Authentication systems using **JWT**
-• Database integration with **PostgreSQL and SQLAlchemy**
-• Performance improvement using **Redis caching**
-• Containerized applications using **Docker**
-
-I have also studied **cybersecurity and Linux environments**, which helps me design backend systems with security and reliability in mind.
+| Área | Tecnologias |
+|---|---|
+| Linguagem | Python |
+| Framework | FastAPI, Pydantic |
+| Banco de dados | PostgreSQL, SQLAlchemy, Alembic |
+| Cache | Redis |
+| Autenticação | JWT, refresh tokens, hash de senha (passlib/bcrypt) |
+| Infraestrutura | Docker, Docker Compose |
+| Ferramentas | Git, GitHub, VS Code, Postman |
 
 ---
 
-# Tech Stack
+## Projetos em destaque
 
-### Languages
+### 🏢 TeamHub SaaS
+API backend para gestão de equipes com **multi-tenancy**: organizações, projetos e tarefas isolados por organização.
 
-* Python
-* JavaScript
+- Autenticação JWT
+- Organizações, projetos e tarefas
+- Notificações em tempo real
+- Rate limiting com Redis
 
-### Backend
-
-* FastAPI
-* Node.js
-* REST APIs
-* JWT Authentication
-
-### Databases
-
-* PostgreSQL
-* MongoDB
-* SQLite
-* Redis
-
-### Tools & Infrastructure
-
-* Docker
-* SQLAlchemy
-* Git
-* GitHub
-* VS Code
-* Postman
+**Stack:** FastAPI · PostgreSQL · Redis · Docker
+🔗 [Repositório](https://github.com/HighOffGrid/TeamHub-Saas) 
 
 ---
 
-# Featured Projects
+### 🔐 FastAPI Auth Service
+Serviço de autenticação reutilizável.
 
-### FastAPI Auth Service
+- Login com JWT e refresh tokens
+- Gestão de tokens com Redis
+- Migrações com Alembic
+- Ambiente em Docker
 
-Authentication microservice built with FastAPI.
-
-Features:
-
-* JWT authentication
-* Refresh tokens
-* PostgreSQL database
-* Redis token management
-* Dockerized environment
-
-Technologies: FastAPI • PostgreSQL • Redis • Docker • SQLAlchemy
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Redis · Docker
+🔗 [Repositório](https://github.com/HighOffGrid/fastapi-auth-service)
 
 ---
 
-### FastAPI E-commerce API
+### 🔗 FastAPI URL Shortener API
+Encurtador de URLs com cache em Redis para acelerar os redirecionamentos.
 
-Backend API for an e-commerce system including:
+- Criação e redirecionamento de links curtos
+- Persistência em PostgreSQL
+- Cache com Redis
 
-* User authentication
-* Product management
-* Order handling
-* Structured REST API
-
-Technologies: FastAPI • PostgreSQL • SQLAlchemy • Docker
-
----
-
-### FastAPI URL Shortener API
-
-URL shortening service built with a scalable backend architecture.
-
-Features:
-
-* URL shortening
-* Redis caching
-* PostgreSQL persistence
-* REST API design
-
-Technologies: FastAPI • PostgreSQL • Redis • Docker
+**Stack:** FastAPI · PostgreSQL · Redis · Docker
+🔗 [Repositório](https://github.com/HighOffGrid/fastapi-url-shortener-api)
 
 ---
 
-### Task Management System
+### 🛒 FastAPI E-commerce API
+API de e-commerce com usuários, produtos e pedidos.
 
-Academic project developed in group.
+- Cadastro e autenticação de usuários
+- Gestão de produtos
+- Criação e consulta de pedidos
 
-Features:
-
-* Task management
-* User authentication
-* CRUD operations
-
-Technologies: JavaScript • Node.js • MongoDB
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker
+🔗 [Repositório](https://github.com/HighOffGrid/fastapi-ecommerce-api)
 
 ---
 
-### Inventory API
+## Em estudo
 
-Simple RESTful API for inventory control.
-
-Features:
-
-* Product management
-* Category relationships
-* Basic stock control
-
-Technologies: Python • FastAPI • SQLite
+- Segurança de aplicações e OWASP API Top 10
+- Testes automatizados com pytest e CI com GitHub Actions
+- Design de APIs e modelagem de dados
 
 ---
 
-# Education
+## Formação
 
-Associate Degree in Systems Analysis and Development — Estácio University
-Graduated: 2026
-
-Focus areas:
-
-* Backend Development and REST APIs
-* Database Modeling
-* Software Architecture
-* Application Security (currently studying)
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**, Universidade Estácio
+Concluído em junho de 2026.
 
 ---
 
-# Skills
+## Contato
 
-Technical Skills
-
-* Backend Development
-* REST API Design
-* Database Modeling
-* Authentication Systems
-* Docker Containers
-
-Soft Skills
-
-* Teamwork
-* Communication
-* Problem solving
-* Adaptability
-* Continuous learning
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HighOffGrid&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HighOffGrid&layout=compact&theme=tokyonight)
-
----
-
-## Current Focus
-
-Building scalable backend systems using:
-
-- FastAPI
-- PostgreSQL
-- Redis
-- Docker
-- Clean Architecture
-
----
-
-## Currently Learning
-
-- Backend Architecture
-- API Security
-- System Design
-
----
-
-# Contact
-
-LinkedIn
-https://www.linkedin.com/in/iago-sena-5a5690317
-
-GitHub
-https://github.com/HighOffGrid
-
-Email
-[iagosena.c@hotmail.com](mailto:iagosena.c@hotmail.com)
+- LinkedIn: [iago-sena](https://www.linkedin.com/in/iago-sena-5a5690317)
+- E-mail: iagosena.c@hotmail.com
