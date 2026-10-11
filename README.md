@@ -144,17 +144,15 @@ Technologies: Python • FastAPI • SQLite
 
 # Education
 
-Analysis and Systems Development
-Estácio University
-
-Expected graduation: **June 2026**
+Associate Degree in Systems Analysis and Development — Estácio University
+Graduated: 2026
 
 Focus areas:
 
-* Web Development
-* Databases
+* Backend Development and REST APIs
+* Database Modeling
 * Software Architecture
-* Programming Logic
+* Application Security (currently studying)
 
 ---
 
@@ -201,8 +199,6 @@ Building scalable backend systems using:
 ## Currently Learning
 
 - Backend Architecture
-- Microservices
-- Distributed Systems
 - API Security
 - System Design
 
@@ -218,7 +214,3 @@ https://github.com/HighOffGrid
 
 Email
 [iagosena.c@hotmail.com](mailto:iagosena.c@hotmail.com)
-
----
-
-Always learning and building new backend systems.
