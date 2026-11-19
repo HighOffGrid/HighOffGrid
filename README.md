@@ -14,7 +14,7 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio e construo APIs REST com Python e FastAPI focadas em segurança, testes automatizados e ambientes reproduzíveis com Docker.
 
-Meus projetos cobrem arquitetura multi-tenant, autenticação JWT com refresh tokens, bancos relacionais com PostgreSQL, cache e rate limiting com Redis, filas assíncronas com Celery e pipelines de CI com GitHub Actions. Também tenho inglês avançado e venho aprofundando meus estudos em segurança de aplicações (OWASP API Top 10) e interfaces web para entregar soluções completas.
+Meus projetos cobrem arquitetura multi-tenant, autenticação JWT com refresh tokens, bancos relacionais com PostgreSQL, cache e rate limiting com Redis, filas assíncronas com Celery e pipelines de CI com GitHub Actions. Também tenho inglês avançado e estou desenvolvendo interfaces web com React para entregar soluções full-stack.
 
 **Buscando minha primeira oportunidade** como Desenvolvedor Backend Júnior ou Full-Stack Júnior.
 
@@ -45,7 +45,7 @@ API SaaS **multi-tenant** para gestão de equipes com organizações, projetos e
 - Migrações com Alembic, testes automatizados com pytest e CI no GitHub Actions
 
 **Stack:** FastAPI · PostgreSQL · Redis · Celery · Docker · pytest  
-🔗 [Repositório](https://github.com/HighOffGrid/TeamHub-Saas)
+🔗 [Repositório](https://github.com/HighOffGrid/TeamHub-Saas) · [Demo (Swagger)](https://teamhub-saas.onrender.com/docs)
 
 ---
 
@@ -81,6 +81,12 @@ Encurtador de URLs com camada de cache em Redis para acelerar redirecionamentos.
 
 **Stack:** FastAPI · PostgreSQL · Redis · Docker  
 🔗 [Repositório](https://github.com/HighOffGrid/fastapi-url-shortener-api)
+
+---
+
+## Em construção
+
+- 🎨 **Frontend React + TypeScript para o TeamHub SaaS** — dashboard com autenticação, organizações, projetos, tarefas e notificações em tempo real.
 
 ---
 
