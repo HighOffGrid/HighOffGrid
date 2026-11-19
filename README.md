@@ -1,4 +1,4 @@
-[<h1 align="center">Iago Sena</h1>
+<h1 align="center">Iago Sena</h1>
 <p align="center">
   Desenvolvedor Backend Júnior · Python · FastAPI · PostgreSQL · Redis · Docker
 </p>
@@ -12,11 +12,11 @@
 
 ## Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e construo APIs REST com Python e FastAPI. Meus projetos têm autenticação JWT, banco relacional, cache com Redis e ambiente reproduzível com Docker.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio e construo APIs REST com Python e FastAPI focadas em segurança, testes automatizados e ambientes reproduzíveis com Docker.
 
-Estou me aprofundando em segurança de aplicações (OWASP API Top 10) para unir desenvolvimento backend e segurança.
+Meus projetos cobrem arquitetura multi-tenant, autenticação JWT com refresh tokens, bancos relacionais com PostgreSQL, cache e rate limiting com Redis, filas assíncronas com Celery e pipelines de CI com GitHub Actions. Também tenho inglês avançado e venho aprofundando meus estudos em segurança de aplicações (OWASP API Top 10) e interfaces web para entregar soluções completas.
 
-**Buscando minha primeira oportunidade** como desenvolvedor backend júnior ou estágio.
+**Buscando minha primeira oportunidade** como Desenvolvedor Backend Júnior ou Full-Stack Júnior.
 
 ---
 
@@ -27,8 +27,9 @@ Estou me aprofundando em segurança de aplicações (OWASP API Top 10) para unir
 | Linguagem | Python |
 | Framework | FastAPI, Pydantic |
 | Banco de dados | PostgreSQL, SQLAlchemy, Alembic |
-| Cache | Redis |
-| Autenticação | JWT, refresh tokens, hash de senha (passlib/bcrypt) |
+| Cache e Filas | Redis, Celery |
+| Autenticação e Segurança | JWT, refresh tokens, bcrypt/passlib, OWASP API Top 10 |
+| Testes e CI | pytest, GitHub Actions |
 | Infraestrutura | Docker, Docker Compose |
 | Ferramentas | Git, GitHub, VS Code, Postman |
 
@@ -37,67 +38,56 @@ Estou me aprofundando em segurança de aplicações (OWASP API Top 10) para unir
 ## Projetos em destaque
 
 ### 🏢 TeamHub SaaS
-API backend para gestão de equipes com **multi-tenancy**: organizações, projetos e tarefas isolados por organização.
+API SaaS **multi-tenant** para gestão de equipes com organizações, projetos e tarefas isolados por tenant.
 
-- Autenticação JWT
-- Organizações, projetos e tarefas
-- Notificações em tempo real
-- Rate limiting com Redis
+- Autenticação JWT e isolamento de dados por organização
+- Rate limiting com Redis e tarefas assíncronas com Celery
+- Migrações com Alembic, testes automatizados com pytest e CI no GitHub Actions
 
-**Stack:** FastAPI · PostgreSQL · Redis · Docker
-🔗 [Repositório](https://github.com/HighOffGrid/TeamHub-Saas) 
+**Stack:** FastAPI · PostgreSQL · Redis · Celery · Docker · pytest  
+🔗 [Repositório](https://github.com/HighOffGrid/TeamHub-Saas)
 
 ---
 
 ### 🔐 FastAPI Auth Service
-Serviço de autenticação reutilizável.
+Serviço de autenticação reutilizável pronto para integração com outras APIs.
 
-- Login com JWT e refresh tokens
-- Gestão de tokens com Redis
-- Migrações com Alembic
-- Ambiente em Docker
+- Login com JWT e rotação de refresh tokens gerenciados via Redis
+- Persistência em PostgreSQL com SQLAlchemy e migrações com Alembic
+- Ambiente completo em Docker Compose
 
-**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Redis · Docker
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Redis · Docker  
 🔗 [Repositório](https://github.com/HighOffGrid/fastapi-auth-service)
 
 ---
 
-### 🔗 FastAPI URL Shortener API
-Encurtador de URLs com cache em Redis para acelerar os redirecionamentos.
-
-- Criação e redirecionamento de links curtos
-- Persistência em PostgreSQL
-- Cache com Redis
-
-**Stack:** FastAPI · PostgreSQL · Redis · Docker
-🔗 [Repositório](https://github.com/HighOffGrid/fastapi-url-shortener-api)
-
----
-
 ### 🛒 FastAPI E-commerce API
-API de e-commerce com usuários, produtos e pedidos.
+API REST para fluxo de usuários, catálogo de produtos e gestão de pedidos.
 
-- Cadastro e autenticação de usuários
-- Gestão de produtos
-- Criação e consulta de pedidos
+- Cadastro e autenticação de usuários com JWT
+- Gestão de produtos e criação/consulta de pedidos
+- Persistência em PostgreSQL com migrações Alembic
 
-**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker
+**Stack:** FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker  
 🔗 [Repositório](https://github.com/HighOffGrid/fastapi-ecommerce-api)
 
 ---
 
-## Em estudo
+### 🔗 FastAPI URL Shortener API
+Encurtador de URLs com camada de cache em Redis para acelerar redirecionamentos.
 
-- Segurança de aplicações e OWASP API Top 10
-- Testes automatizados com pytest e CI com GitHub Actions
-- Design de APIs e modelagem de dados
+- Criação e redirecionamento de links curtos
+- Persistência em PostgreSQL e cache com Redis
+
+**Stack:** FastAPI · PostgreSQL · Redis · Docker  
+🔗 [Repositório](https://github.com/HighOffGrid/fastapi-url-shortener-api)
 
 ---
 
-## Formação
+## Formação e Idiomas
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**, Universidade Estácio
-Concluído em junho de 2026.
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Estácio (concluído em junho de 2026)
+- **Idiomas:** Português (Nativo) · Inglês (Avançado)
 
 ---
 
@@ -105,4 +95,3 @@ Concluído em junho de 2026.
 
 - LinkedIn: [iago-sena](https://www.linkedin.com/in/iago-sena-5a5690317)
 - E-mail: iagosena.c@hotmail.com
-](https://github.com/HighOffGrid/HighOffGrid)
